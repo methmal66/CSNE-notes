@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "POSIX API",
+      "path": "Notes/POSIX API.md"
+    },
+    {
+      "basename": "Link aggregation",
+      "path": "Notes/Link aggregation.md"
+    },
+    {
+      "basename": "Harvard Architecture",
+      "path": "Notes/Harvard Architecture.md"
+    },
+    {
+      "basename": "Expansion modules",
+      "path": "Notes/Expansion modules.md"
+    },
+    {
+      "basename": "Failure domains",
+      "path": "Notes/Failure domains.md"
+    },
+    {
+      "basename": "Access layer",
+      "path": "Notes/Access layer.md"
+    },
+    {
+      "basename": "2-tier hierarchical model",
+      "path": "Notes/2-tier hierarchical model.md"
+    },
+    {
       "basename": "3-tier hierarchical model",
       "path": "Notes/3-tier hierarchical model.md"
+    },
+    {
+      "basename": "AI",
+      "path": "Syllabus/Y2S2/AI.md"
+    },
+    {
+      "basename": "Configure a DHCP server in CentOS7",
+      "path": "Lab reports/Configure a DHCP server in CentOS7.md"
+    },
+    {
+      "basename": "Assembly",
+      "path": "Notes/Assembly.md"
+    },
+    {
+      "basename": "Directives",
+      "path": "Notes/Directives.md"
+    },
+    {
+      "basename": "Assembler",
+      "path": "Notes/Assembler.md"
+    },
+    {
+      "basename": "Mnemonics",
+      "path": "Notes/Mnemonics.md"
+    },
+    {
+      "basename": "Scaling networks",
+      "path": "Notes/Scaling networks.md"
+    },
+    {
+      "basename": "Inter VLAN routing",
+      "path": "Notes/Inter VLAN routing.md"
+    },
+    {
+      "basename": "Enterprise architecture",
+      "path": "Notes/Enterprise architecture.md"
+    },
+    {
+      "basename": "Configuring VLANs",
+      "path": "Lab reports/Configuring VLANs.md"
+    },
+    {
+      "basename": "Configuring VTP",
+      "path": "Lab reports/Configuring VTP.md"
+    },
+    {
+      "basename": "Configuring inter VLAN routing",
+      "path": "Lab reports/Configuring inter VLAN routing.md"
+    },
+    {
+      "basename": "Assign global IPv6 addresses",
+      "path": "Lab reports/Assign global IPv6 addresses.md"
     },
     {
       "basename": "Pasted image 20230222084435",
