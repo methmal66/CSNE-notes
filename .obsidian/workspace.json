@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "e88b85b6310b7440",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6c0166a6c06848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37fb02a5ece23714",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "b02f32f6728cd0fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3-tier hierarchical model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2754c1d683cde28f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb271ef5d1c03212",
+        "type": "tabs",
+        "dimension": 54.77582846003899,
+        "children": [
+          {
+            "id": "10cd4e12fefb6a2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6edfd8b8c0773636",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "36425ba8ee909157",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d14e8519e8c6346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37606e88b8379a9e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "977f71c14c430e12",
+        "type": "tabs",
+        "dimension": 45.22417153996101,
+        "children": [
+          {
+            "id": "6c2c14ddaaec3463",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/3-tier hierarchical model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bede3b3b79c05551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/3-tier hierarchical model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2521581813cb004f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/3-tier hierarchical model.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24306a86f7a96e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b633102af5bc43b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7989785dfc94e03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b02f32f6728cd0fb",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20230222084435.png",
+    "Lab reports/Configuring VLAN trunks.md",
+    "Syllabus/Y2S2/CSA (IE2060).md",
+    "Syllabus/Y2S2/AI.md",
+    "Attachments/Pasted image 20230212151554.png",
+    "Notes/App virtualization.md",
+    "icons/System/zoom-out-line.svg",
+    "icons/System/zoom-out-fill.svg",
+    "icons/System/zoom-in-line.svg",
+    "icons/System/zoom-in-fill.svg",
+    "icons/System/upload-line.svg",
+    "icons/System/upload-fill.svg",
+    "icons/System/upload-cloud-line.svg",
+    "icons/System/upload-cloud-fill.svg",
+    "icons/System/upload-cloud-2-line.svg",
+    "icons/Weather",
+    "icons/User",
+    "icons/Media",
+    "icons/System",
+    "icons/Others",
+    "icons/Logos",
+    "icons/Map",
+    "icons/Health",
+    "icons/Finance",
+    "icons/Editor",
+    "Notes/3-tier hierarchical model.md",
+    "Notes/2-tier hierarchical model.md",
+    "Notes/Access layer.md",
+    "Notes/Aggregation switch.md",
+    "Notes/ALU.md",
+    "Notes/Access switch.md",
+    "2023-03-20.md",
+    "Notes/Inter VLAN routing.md",
+    "Notes/Accountibility.md",
+    "2-tier hierarchical model.md",
+    "Notes/Wireless connectivity.md",
+    "Notes/Wireless AP.md",
+    "Notes/VTP.md",
+    "Notes/Von Neumann Architecture.md",
+    "Notes/VLAN.md",
+    "Notes/Virtualization.md",
+    "Notes/Virtual switch.md",
+    "Notes/Video card.md",
+    "Notes/Values.md",
+    "Notes/User management in Linux.md",
+    "Notes/Use Case Diagram.md"
+  ]
+}

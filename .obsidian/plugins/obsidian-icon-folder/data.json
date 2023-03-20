@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "EdList-unordered",
+      "DoBook-3-line",
+      "HeTest-tube-line",
+      "EdAttachment-2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Attachments": "EdAttachment-2",
+  "Lab reports": {
+    "iconName": "HeTest-tube-line",
+    "inheritanceIcon": "HeTest-tube-line"
+  },
+  "Notes": "DoBook-3-line",
+  "Syllabus": "EdList-unordered"
+}
