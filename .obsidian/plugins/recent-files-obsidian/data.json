@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "VLAN",
+      "path": "Canvases/VLAN.canvas"
+    },
+    {
       "basename": "IPv6",
       "path": "Canvases/IPv6.canvas"
     },
     {
-      "basename": "VLAN",
-      "path": "Canvases/VLAN.canvas"
+      "basename": "VTP",
+      "path": "Notes/VLAN/VTP.md"
+    },
+    {
+      "basename": "Configuring VTP",
+      "path": "Lab reports/Configuring VTP.md"
+    },
+    {
+      "basename": "Pasted image 20230319224501",
+      "path": "Attachments/Pasted image 20230319224501.png"
+    },
+    {
+      "basename": "Configure SVI VLAN interfaces",
+      "path": "Lab reports/Configure SVI VLAN interfaces.md"
     },
     {
       "basename": "Scaling networks",
@@ -18,7 +34,7 @@
     },
     {
       "basename": "Assign auto (SLAAC) ipv6 addresses",
-      "path": "Assign auto (SLAAC) ipv6 addresses.md"
+      "path": "Lab reports/Assign auto (SLAAC) ipv6 addresses.md"
     },
     {
       "basename": "Assign static IPv6 addresses",
@@ -82,15 +98,11 @@
     },
     {
       "basename": "Configure sub interfaces",
-      "path": "Notes/VLAN/Configure sub interfaces.md"
+      "path": "Lab reports/Configure sub interfaces.md"
     },
     {
       "basename": "Configuring trunk ports",
       "path": "Lab reports/Configuring trunk ports.md"
-    },
-    {
-      "basename": "Create SVI VLAN interfaces",
-      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
     },
     {
       "basename": "VLAN",
@@ -118,7 +130,7 @@
     },
     {
       "basename": "Config router on a stick",
-      "path": "Notes/VLAN/Config router on a stick.md"
+      "path": "Lab reports/Config router on a stick.md"
     },
     {
       "basename": "Inter VLAN routing",
@@ -126,11 +138,11 @@
     },
     {
       "basename": "Create static VLANs",
-      "path": "Notes/VLAN/Create static VLANs.md"
+      "path": "Lab reports/Create static VLANs.md"
     },
     {
       "basename": "Create dynamic VLANs",
-      "path": "Notes/VLAN/Create dynamic VLANs.md"
+      "path": "Lab reports/Create dynamic VLANs.md"
     },
     {
       "basename": "Configure Legacy inter VLAN routing",
@@ -138,7 +150,7 @@
     },
     {
       "basename": "Configure multilayer switch inter VLAN routing",
-      "path": "Notes/VLAN/Configure multilayer switch inter VLAN routing.md"
+      "path": "Lab reports/Configure multilayer switch inter VLAN routing.md"
     },
     {
       "basename": "Create VLANs",

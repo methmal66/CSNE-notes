@@ -9,7 +9,7 @@ modified: [[2023-03-21]]
 
 [[Create VLANs]] int the layer 3 switch as normal and assign interfaces on PCs.
 
-[[Create SVI VLAN interfaces]] for the above created VLANs
+[[Configure SVI VLAN interfaces]] for the above created VLANs
 
 Finally, we have to enable routing as this is a layer 3 switch
 ```cisco
