@@ -30,9 +30,9 @@
               "state": {
                 "file": "Canvases/VLAN.canvas",
                 "viewState": {
-                  "x": 649.5367030919593,
-                  "y": -1267.1554434284405,
-                  "zoom": -1.6414864456872247
+                  "x": -172.25547776770009,
+                  "y": -2059.7590194878103,
+                  "zoom": -1.6380342577119755
                 }
               },
               "pinned": true
@@ -64,12 +64,24 @@
               "state": {
                 "file": "Canvases/IPv6.canvas",
                 "viewState": {
-                  "x": 516.1841887727628,
-                  "y": 683.3106085687764,
-                  "zoom": -1.658872438766894
+                  "x": 680.9025623393985,
+                  "y": 1253.911862256543,
+                  "zoom": -1.6484337238454205
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "540b9482dfd1322a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/IPv6/IPv6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static ipv6.p",
+                "query": "file: IPv6",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "977f71c14c430e12",
@@ -149,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/IPv6/IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/IPv6/IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/IPv6/IPv6.md"
+              }
             }
           }
         ],
@@ -220,15 +237,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "10cd4e12fefb6a2a",
+  "active": "170e5acf1e2c19e3",
   "lastOpenFiles": [
+    "Notes/IPv6/IPv6.md",
+    "Lab reports/Assign static IPv6 addresses.md",
+    "Canvases/IPv6.canvas",
+    "Canvases/VLAN.canvas",
+    "Notes/VLAN/VLAN.md",
+    "Best practices.md",
+    "Notes/VLAN/Network address or Protocol driven.md",
+    "Notes/VLAN/Static.md",
+    "Notes/VLAN/Router on a stick.md",
+    "Notes/VLAN/Port driven.md",
+    "Notes/VLAN/MAC address driven.md",
+    "Notes/VLAN/Legacy inter vlan routing.md",
+    "Notes/VLAN/Features.md",
+    "Notes/VLAN/Dynamic.md",
+    "Notes/VLAN/Config router on a stick.md",
+    "Notes/VLAN/Best practices.md",
+    "Notes/VLAN/Advantages.md",
+    "Notes/VLAN/Advantages..md",
+    "Attachments/Pasted image 20230318231837.png",
+    "Notes/VLAN/Create static VLANs.md",
+    "Notes/IPv6/Unspecified.md",
     "Notes/IPv6/Unique local.md",
     "Notes/IPv6/Randomly generated.md",
-    "Canvases/IPv6.canvas",
     "Notes/IPv6/Loopback.md",
     "Notes/IPv6/IPv4 compatible.md",
     "Notes/IPv4.md",
-    "Lab reports/Assign static IPv6 addresses.md",
     "Attachments/static ipv6.pkt",
     "Attachments/static ipv6 2.pkt",
     "Assign auto (SLAAC) ipv6 addresses.md",
@@ -237,39 +273,20 @@
     "CSNE notes",
     "Attachments/Pasted image 20230314080714.png",
     "Canvases/Scaling networks.canvas",
-    "Canvases/VLAN.canvas",
     "Notes/VLAN/Create SVI VLAN interfaces.md",
-    "Notes/VLAN/Configure multilayer switch inter VLAN routing.md",
-    "Lab reports/Create VLANs.md",
     "Attachments/multilayer inter vlan.pkt",
     "Attachments/Pasted image 20230322001711.png",
     "Attachments/Pasted image 20230322001643.png",
-    "Notes/VLAN/Legacy.md",
-    "Lab reports/Configure Legacy inter VLAN routing.md",
-    "Notes/VLAN/Router on a stick.md",
-    "Notes/VLAN/Config router on a stick.md",
     "Attachments/router on a stick.pkt",
     "Attachments/Pasted image 20230321232554.png",
-    "Notes/VLAN/Configure sub interfaces.md",
     "Attachments/Pasted image 20230321231113.png",
     "Attachments/Pasted image 20230321230913.png",
-    "Notes/System Call Interface.md",
-    "Notes/VLAN/Multilayer.md",
-    "README.md",
-    "Notes/VLAN/Advantages..md",
-    "Notes/Inter VLAN routing.md",
-    "Notes/VLAN/VLAN.md",
-    "Lab reports/Configuring trunk ports.md",
-    "Notes/VLAN/Static ..md",
-    "Notes/VLAN/Dynamic ..md",
     "Attachments/static vlan.pkt~",
     "Canvases",
-    "Notes/VLAN/Static.md",
     "Notes/VLAN",
     "Notes/Scaling networks",
     "Attachments/Pasted image 20230321073538.png",
     "Attachments/Pasted image 20230217084249.png",
-    "Attachments/Pasted image 20230214214653.png",
-    "Attachments/Pasted image 20230212161054.png"
+    "Attachments/Pasted image 20230214214653.png"
   ]
 }

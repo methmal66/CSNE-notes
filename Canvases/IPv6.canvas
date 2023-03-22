@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"a438878d05278f11","x":-640,"y":-1800,"width":2200,"height":2200,"color":"1","label":"Types of addresses"},
+		{"type":"group","id":"a438878d05278f11","x":-640,"y":-1800,"width":2163,"height":2200,"color":"1","label":"Types of addresses"},
 		{"type":"group","id":"581cf63b0f514e7e","x":-606,"y":-1720,"width":2093,"height":1340,"color":"6","label":"Unicast addresses"},
 		{"type":"group","id":"43884f459c05bc43","x":-400,"y":1720,"width":1960,"height":760,"color":"6","label":"Address assigning methods"},
 		{"type":"group","id":"82d6adbaa0bd811d","x":1420,"y":648,"width":1260,"height":992,"color":"6","label":"Coexistance with IPv4"},
@@ -11,7 +11,7 @@
 		{"type":"text","text":">[!important]\n>There are no broadcast addresses in IPv6","id":"47845726eaa491eb","x":838,"y":220,"width":564,"height":120,"color":"5"},
 		{"type":"file","file":"Attachments/Pasted image 20230321072249.png","id":"4446af3f3a73d7f4","x":-466,"y":-1630,"width":400,"height":300},
 		{"type":"file","file":"Notes/IPv6/Dual stack.md","id":"9a580898804aa2a7","x":1440,"y":685,"width":400,"height":265,"color":"5"},
-		{"type":"file","file":"Notes/IPv6/IPv6.md","id":"434a131f3c867949","x":124,"y":740,"width":574,"height":640,"color":"2"},
+		{"type":"file","file":"Notes/IPv6/IPv6.md","id":"434a131f3c867949","x":124,"y":740,"width":574,"height":520,"color":"2"},
 		{"type":"text","text":"# Header","id":"1d6f0c686c009699","x":-360,"y":950,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"# Unique Local\n\n- Servers the purpose of private addresses as in [[IPv4]] with added features\n- Allocated address block is `fc00::/7`\n- Consist of 3 parts in order\n\t1. Prefix (8bits) - `fc` or `fd`\n\t2. Global ID (40bits)\n\t3. Subnet ID (16bits)\n\t4. Interface ID (64bits)\n\n![[Pasted image 20230312191914.png|500]]\n\n>[!note]- Site Local addresses are deprecated\n>- Corresponding to private addresses in [[IPv4]]\n>- Allocated address block is `FEC0::/16`\n\n","id":"8d7e2d7c2d8c4a6d","x":400,"y":-1130,"width":535,"height":520,"color":"5"},
 		{"type":"text","text":"# Link local\n\n- The addresses used to communicate on local network segments. \n- Confined to a single link\n- Routers do not forward packet with these addresses. \n- Has `FE80::/10` address block, which is corresponing to `169:254:0.0/16` in [[IPv4]]\n- Every IPv6-enabled network interfaces required to have\n![[Pasted image 20230312194207.png]]","id":"dd0f5f9e136a96a6","x":976,"y":-870,"width":481,"height":408,"color":"5"},

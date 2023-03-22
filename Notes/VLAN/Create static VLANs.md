@@ -4,6 +4,9 @@ author: methmal66
 created: [[2023-03-21]]
 modified: [[2023-03-21]]
 ---
+- Network admin configure port-by-port
+- Each port is assigned with a specific VLAN
+
 ![[Pasted image 20230319150419.png]]
 ![[static vlan.pkt]]
 

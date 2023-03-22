@@ -7,9 +7,9 @@ modified: [[2023-03-21]]
 Forwarding network traffic from one VLAN to another VLAN
 
 Menu
-- [[Legacy]]
+- [[Legacy inter vlan routing]]
 - [[Router on a stick]]
-- [[Multilayer]]
+- [[Multilayer switch inter vlan routing]]
 	- [[Advantages.]]
 
 >[!important] Practical lab

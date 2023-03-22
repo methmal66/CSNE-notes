@@ -1,5 +1,7 @@
 ---
 tags: networking RS AI
+author: methmal66
+modified: [[2023-03-22]]
 ---
 
    >[!faq]- Why v6 IPs are being used?
@@ -52,32 +54,3 @@ But these long form addresses can be reduced further using the below rules
 >- FE80:0000:0000:0000:0123:4567:89AB:CDEF -> FE80::0123:4567:89AB:CDEF
 > >[!note]- Only one segment can be omitted
 > >Because number of omitted zeros cannot be determined if there were multiple of them
-
-###### Menu
-- Types of addresses
-	- Unicast
-		- [[Loopback|Loopback]]
-		- [[Unspecified|Unspecified]]
-		- [[Link local|Link local]]
-		- [[Unique local|Unique local]]
-		- [[Global|Global]]
-		- [[IPv4 compatible|IPv4 compatible]]
-	 - Multicast
-	 - Anycast
-- IPv4 and IPv6 coexistence
-	- [[Dual stack|Dual stack]]
-	- [[Tunneling|Tunneling over IPv4]]
-	- [[Translation|Translation]]
-- Assigning addresses
-	- Static config
-	- [[SLAAC]]
-	- DHCPv6
-	- [[EUI-64 process|EUI-64 process]]
-	- [[Randomly generated]]
-- IPv6 header
-
->[!important] Lab
->Refer the below note to get a practical understanding
->[[Assign static IPv6 addresses]]
-
-

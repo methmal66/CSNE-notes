@@ -2,11 +2,79 @@
   "recentFiles": [
     {
       "basename": "IPv6",
-      "path": "Canvases/IPv6.canvas"
+      "path": "Notes/IPv6/IPv6.md"
     },
     {
       "basename": "IPv6",
-      "path": "Notes/IPv6/IPv6.md"
+      "path": "Canvases/IPv6.canvas"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Canvases/VLAN.canvas"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Notes/VLAN/VLAN.md"
+    },
+    {
+      "basename": "Best practices",
+      "path": "Best practices.md"
+    },
+    {
+      "basename": "Router on a stick",
+      "path": "Notes/VLAN/Router on a stick.md"
+    },
+    {
+      "basename": "Legacy inter vlan routing",
+      "path": "Notes/VLAN/Legacy inter vlan routing.md"
+    },
+    {
+      "basename": "Multilayer switch inter vlan routing",
+      "path": "Notes/VLAN/Multilayer switch inter vlan routing.md"
+    },
+    {
+      "basename": "Config router on a stick",
+      "path": "Notes/VLAN/Config router on a stick.md"
+    },
+    {
+      "basename": "Inter VLAN routing",
+      "path": "Notes/Inter VLAN routing.md"
+    },
+    {
+      "basename": "Create static VLANs",
+      "path": "Notes/VLAN/Create static VLANs.md"
+    },
+    {
+      "basename": "Create dynamic VLANs",
+      "path": "Notes/VLAN/Create dynamic VLANs.md"
+    },
+    {
+      "basename": "Create SVI VLAN interfaces",
+      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
+    },
+    {
+      "basename": "Configure Legacy inter VLAN routing",
+      "path": "Lab reports/Configure Legacy inter VLAN routing.md"
+    },
+    {
+      "basename": "Configuring trunk ports",
+      "path": "Lab reports/Configuring trunk ports.md"
+    },
+    {
+      "basename": "Configure sub interfaces",
+      "path": "Notes/VLAN/Configure sub interfaces.md"
+    },
+    {
+      "basename": "Configure multilayer switch inter VLAN routing",
+      "path": "Notes/VLAN/Configure multilayer switch inter VLAN routing.md"
+    },
+    {
+      "basename": "Create VLANs",
+      "path": "Lab reports/Create VLANs.md"
+    },
+    {
+      "basename": "Pasted image 20230319073014",
+      "path": "Attachments/Pasted image 20230319073014.png"
     },
     {
       "basename": "Pasted image 20230321072249",
@@ -45,10 +113,6 @@
       "path": "Canvases/Scaling networks.canvas"
     },
     {
-      "basename": "VLAN",
-      "path": "Canvases/VLAN.canvas"
-    },
-    {
       "basename": "Core layer",
       "path": "Notes/Core layer.md"
     },
@@ -77,10 +141,6 @@
       "path": "Notes/Hierarchical design model.md"
     },
     {
-      "basename": "Router on a stick",
-      "path": "Notes/VLAN/Router on a stick.md"
-    },
-    {
       "basename": "Service provider edge",
       "path": "Notes/Service provider edge.md"
     },
@@ -103,70 +163,6 @@
     {
       "basename": "Scaling networks",
       "path": "Notes/Scaling networks/Scaling networks.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "Notes/VLAN/VLAN.md"
-    },
-    {
-      "basename": "Create SVI VLAN interfaces",
-      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
-    },
-    {
-      "basename": "Configure multilayer switch inter VLAN routing",
-      "path": "Notes/VLAN/Configure multilayer switch inter VLAN routing.md"
-    },
-    {
-      "basename": "Config router on a stick",
-      "path": "Notes/VLAN/Config router on a stick.md"
-    },
-    {
-      "basename": "Dynamic .",
-      "path": "Notes/VLAN/Dynamic ..md"
-    },
-    {
-      "basename": "Configure sub interfaces",
-      "path": "Notes/VLAN/Configure sub interfaces.md"
-    },
-    {
-      "basename": "Configuring trunk ports",
-      "path": "Lab reports/Configuring trunk ports.md"
-    },
-    {
-      "basename": "Configure Legacy inter VLAN routing",
-      "path": "Lab reports/Configure Legacy inter VLAN routing.md"
-    },
-    {
-      "basename": "Multilayer",
-      "path": "Notes/VLAN/Multilayer.md"
-    },
-    {
-      "basename": "Legacy",
-      "path": "Notes/VLAN/Legacy.md"
-    },
-    {
-      "basename": "Inter VLAN routing",
-      "path": "Notes/Inter VLAN routing.md"
-    },
-    {
-      "basename": "MAC address driven",
-      "path": "Notes/VLAN/MAC address driven.md"
-    },
-    {
-      "basename": "Port driven",
-      "path": "Notes/VLAN/Port driven.md"
-    },
-    {
-      "basename": "Network address or Protocol driven",
-      "path": "Notes/VLAN/Network address or Protocol driven.md"
-    },
-    {
-      "basename": "Create VLANs",
-      "path": "Lab reports/Create VLANs.md"
-    },
-    {
-      "basename": "Static .",
-      "path": "Notes/VLAN/Static ..md"
     },
     {
       "basename": "Pasted image 20230321232554",

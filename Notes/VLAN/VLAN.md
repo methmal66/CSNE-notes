@@ -23,26 +23,5 @@ Logical segmentation of a LAN into multiple broadcast domains reguardless of phy
 >- Security
 >- Management
 
-Menu
-	- [[Features]]
-	- [[Notes/VLAN/Advantages]]
-	- Configuring
-		- [[Notes/VLAN/Static]]
-		- [[Notes/VLAN/Dynamic]]
-	- Membership types
-		- [[Port driven]]
-		- [[MAC address driven]]
-		- [[Network address or Protocol driven]]
-	- [[Best practices]]
-	- Practical labs
-		- [[Create VLANs]]
-			- [[Static .]]
-			- [[Dynamic .]]
-		- [[Configuring trunk ports]]
-		- [[Configuring VTP]]
-		- [[Configure Legacy inter VLAN routing]]
-			- [[Legacy method]]
-			- [[Router on a stick]]
-
 
 
