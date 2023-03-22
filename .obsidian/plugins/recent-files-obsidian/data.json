@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "VLAN",
-      "path": "Canvases/VLAN.canvas"
+      "basename": "IPv6",
+      "path": "Canvases/IPv6.canvas"
+    },
+    {
+      "basename": "IPv6",
+      "path": "Notes/IPv6/IPv6.md"
+    },
+    {
+      "basename": "Pasted image 20230321072249",
+      "path": "Attachments/Pasted image 20230321072249.png"
+    },
+    {
+      "basename": "Assign auto (SLAAC) ipv6 addresses",
+      "path": "Assign auto (SLAAC) ipv6 addresses.md"
+    },
+    {
+      "basename": "Assign static IPv6 addresses",
+      "path": "Lab reports/Assign static IPv6 addresses.md"
+    },
+    {
+      "basename": "SLAAC",
+      "path": "Notes/IPv6/SLAAC.md"
+    },
+    {
+      "basename": "EUI-64 process",
+      "path": "Notes/IPv6/EUI-64 process.md"
+    },
+    {
+      "basename": "Tunneling",
+      "path": "Notes/IPv6/Tunneling.md"
+    },
+    {
+      "basename": "Translation",
+      "path": "Notes/IPv6/Translation.md"
+    },
+    {
+      "basename": "Dual stack",
+      "path": "Notes/IPv6/Dual stack.md"
     },
     {
       "basename": "Scaling networks",
       "path": "Canvases/Scaling networks.canvas"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Canvases/VLAN.canvas"
     },
     {
       "basename": "Core layer",
@@ -67,18 +107,6 @@
     {
       "basename": "VLAN",
       "path": "Notes/VLAN/VLAN.md"
-    },
-    {
-      "basename": "Randomly generated",
-      "path": "Notes/IPv6/Randomly generated.md"
-    },
-    {
-      "basename": "IPv6",
-      "path": "Canvases/IPv6.canvas"
-    },
-    {
-      "basename": "IPv6",
-      "path": "Notes/IPv6/IPv6.md"
     },
     {
       "basename": "Create SVI VLAN interfaces",
@@ -143,62 +171,6 @@
     {
       "basename": "Pasted image 20230321232554",
       "path": "Attachments/Pasted image 20230321232554.png"
-    },
-    {
-      "basename": "Pasted image 20230319073014",
-      "path": "Attachments/Pasted image 20230319073014.png"
-    },
-    {
-      "basename": "Pasted image 20230320072434",
-      "path": "Attachments/Pasted image 20230320072434.png"
-    },
-    {
-      "basename": "System Call Interface",
-      "path": "Notes/System Call Interface.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Pasted image 20230320062413",
-      "path": "Attachments/Pasted image 20230320062413.png"
-    },
-    {
-      "basename": "Advantages.",
-      "path": "Notes/VLAN/Advantages..md"
-    },
-    {
-      "basename": "Advantages",
-      "path": "Notes/VLAN/Advantages.md"
-    },
-    {
-      "basename": "Features",
-      "path": "Notes/VLAN/Features.md"
-    },
-    {
-      "basename": "Dynamic",
-      "path": "Notes/VLAN/Dynamic.md"
-    },
-    {
-      "basename": "Static",
-      "path": "Notes/VLAN/Static.md"
-    },
-    {
-      "basename": "Configuring VTP",
-      "path": "Lab reports/Configuring VTP.md"
-    },
-    {
-      "basename": "SLAAC",
-      "path": "Notes/IPv6/SLAAC.md"
-    },
-    {
-      "basename": "Best practices",
-      "path": "Notes/VLAN/Best practices.md"
-    },
-    {
-      "basename": "AI",
-      "path": "Syllabus/Y2S2/AI.md"
     }
   ],
   "omittedPaths": [],

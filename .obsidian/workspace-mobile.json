@@ -15,9 +15,9 @@
               "state": {
                 "file": "Canvases/IPv6.canvas",
                 "viewState": {
-                  "x": 323.61505901808573,
-                  "y": 1672.8773719680337,
-                  "zoom": -1.9050112351784172
+                  "x": 102.64094802522122,
+                  "y": 525.1403209386725,
+                  "zoom": -2.73489937007846
                 }
               }
             }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Canvases/IPv6.canvas",
+            "file": "Notes/IPv6/IPv4 compatible.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Canvases/IPv6.canvas",
+            "file": "Notes/IPv6/IPv4 compatible.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Canvases/IPv6.canvas"
+            "file": "Notes/IPv6/IPv4 compatible.md"
           }
         }
       }

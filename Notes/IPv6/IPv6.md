@@ -78,6 +78,6 @@ But these long form addresses can be reduced further using the below rules
 
 >[!important] Lab
 >Refer the below note to get a practical understanding
->[[Assign global IPv6 addresses]]
+>[[Assign static IPv6 addresses]]
 
 

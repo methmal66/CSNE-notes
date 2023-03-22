@@ -30,9 +30,9 @@
               "state": {
                 "file": "Canvases/VLAN.canvas",
                 "viewState": {
-                  "x": 1077.4752279301122,
-                  "y": -1434.2722352885414,
-                  "zoom": -1.668099798681349
+                  "x": 649.5367030919593,
+                  "y": -1267.1554434284405,
+                  "zoom": -1.6414864456872247
                 }
               },
               "pinned": true
@@ -47,8 +47,8 @@
               "state": {
                 "file": "Canvases/Scaling networks.canvas",
                 "viewState": {
-                  "x": -991.0837746071822,
-                  "y": -1913.2910222074502,
+                  "x": -150.47528990404925,
+                  "y": -1998.4159320508081,
                   "zoom": -1.516206838706806
                 }
               },
@@ -64,16 +64,16 @@
               "state": {
                 "file": "Canvases/IPv6.canvas",
                 "viewState": {
-                  "x": 324.2208050553385,
-                  "y": -395.85978658982503,
-                  "zoom": -1.1988066629303828
+                  "x": 516.1841887727628,
+                  "y": 683.3106085687764,
+                  "zoom": -1.658872438766894
                 }
               },
               "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static ipv6.p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/VLAN.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/VLAN.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Canvases/VLAN.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -187,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24306a86f7a96e2e",
@@ -225,11 +220,24 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d46a6e242cabf581",
+  "active": "10cd4e12fefb6a2a",
   "lastOpenFiles": [
+    "Notes/IPv6/Unique local.md",
+    "Notes/IPv6/Randomly generated.md",
+    "Canvases/IPv6.canvas",
+    "Notes/IPv6/Loopback.md",
+    "Notes/IPv6/IPv4 compatible.md",
+    "Notes/IPv4.md",
+    "Lab reports/Assign static IPv6 addresses.md",
+    "Attachments/static ipv6.pkt",
+    "Attachments/static ipv6 2.pkt",
+    "Assign auto (SLAAC) ipv6 addresses.md",
+    "CSNE notes/Attachments/static ipv6.pkt.md",
+    "CSNE notes/Attachments",
+    "CSNE notes",
+    "Attachments/Pasted image 20230314080714.png",
     "Canvases/Scaling networks.canvas",
     "Canvases/VLAN.canvas",
-    "Canvases/IPv6.canvas",
     "Notes/VLAN/Create SVI VLAN interfaces.md",
     "Notes/VLAN/Configure multilayer switch inter VLAN routing.md",
     "Lab reports/Create VLANs.md",
@@ -255,25 +263,13 @@
     "Notes/VLAN/Static ..md",
     "Notes/VLAN/Dynamic ..md",
     "Attachments/static vlan.pkt~",
-    "Notes/IPv6/IPv4 compatible.md",
     "Canvases",
     "Notes/VLAN/Static.md",
-    "Notes/VLAN/Port driven.md",
-    "Notes/VLAN/Network address or Protocol driven.md",
-    "Notes/VLAN/MAC address driven.md",
-    "Notes/VLAN/Features.md",
-    "Notes/VLAN/Dynamic.md",
-    "Notes/VLAN/Advantages.md",
     "Notes/VLAN",
     "Notes/Scaling networks",
-    "Attachments/vlan trunking.pkt~",
     "Attachments/Pasted image 20230321073538.png",
     "Attachments/Pasted image 20230217084249.png",
     "Attachments/Pasted image 20230214214653.png",
-    "Attachments/Pasted image 20230212161054.png",
-    "Attachments/Screenshot 2023-03-04 at 15.00.33.png",
-    "Notes/IPv6",
-    "icons/Weather",
-    "icons/User"
+    "Attachments/Pasted image 20230212161054.png"
   ]
 }

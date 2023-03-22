@@ -1,5 +1,5 @@
 ---
-tags: networking AI 
+tags: networking AI ipv6
 alias: Stateless Address Autoconfiguration (SLAAC)
 author: methmal66
 created: [[2023-03-21]]

@@ -1,5 +1,5 @@
 ---
-tags: networking AI RS 
+tags: networking AI RS ipv6
 author: methmal66
 created: [[2023-03-21]]
 modified: [[2023-03-21]]
