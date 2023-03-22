@@ -30,9 +30,9 @@
               "state": {
                 "file": "Canvases/VLAN.canvas",
                 "viewState": {
-                  "x": 5058.142040081441,
-                  "y": -1216.0337950725532,
-                  "zoom": -1.3750066990872323
+                  "x": 1077.4752279301122,
+                  "y": -1434.2722352885414,
+                  "zoom": -1.668099798681349
                 }
               },
               "pinned": true
@@ -47,9 +47,9 @@
               "state": {
                 "file": "Canvases/Scaling networks.canvas",
                 "viewState": {
-                  "x": -946.0967065210995,
-                  "y": -521.895964698842,
-                  "zoom": -1.0656492980516716
+                  "x": -991.0837746071822,
+                  "y": -1913.2910222074502,
+                  "zoom": -1.516206838706806
                 }
               },
               "pinned": true
@@ -227,11 +227,11 @@
   },
   "active": "d46a6e242cabf581",
   "lastOpenFiles": [
-    "Canvases/IPv6.canvas",
     "Canvases/Scaling networks.canvas",
+    "Canvases/VLAN.canvas",
+    "Canvases/IPv6.canvas",
     "Notes/VLAN/Create SVI VLAN interfaces.md",
     "Notes/VLAN/Configure multilayer switch inter VLAN routing.md",
-    "Canvases/VLAN.canvas",
     "Lab reports/Create VLANs.md",
     "Attachments/multilayer inter vlan.pkt",
     "Attachments/Pasted image 20230322001711.png",
