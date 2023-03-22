@@ -1,4 +1,7 @@
-#networking #AI #hardware 
-
-![[Pasted image 20230318114234.png|600]]
+---
+tags: networking AI 
+author: methmal66
+created: [[2023-03-22]]
+modified: [[2023-03-22]]
+---
 

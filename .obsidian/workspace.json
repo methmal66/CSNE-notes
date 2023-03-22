@@ -30,9 +30,9 @@
               "state": {
                 "file": "Canvases/VLAN.canvas",
                 "viewState": {
-                  "x": -172.25547776770009,
-                  "y": -2059.7590194878103,
-                  "zoom": -1.6380342577119755
+                  "x": 1178.0613139907362,
+                  "y": -1836.3430459077408,
+                  "zoom": -1.669142129641779
                 }
               },
               "pinned": true
@@ -47,9 +47,9 @@
               "state": {
                 "file": "Canvases/Scaling networks.canvas",
                 "viewState": {
-                  "x": -150.47528990404925,
-                  "y": -1998.4159320508081,
-                  "zoom": -1.516206838706806
+                  "x": -1351.2207484414178,
+                  "y": -1731.9338983494777,
+                  "zoom": -2.207875106577748
                 }
               },
               "pinned": true
@@ -64,21 +64,21 @@
               "state": {
                 "file": "Canvases/IPv6.canvas",
                 "viewState": {
-                  "x": 680.9025623393985,
-                  "y": 1253.911862256543,
-                  "zoom": -1.6484337238454205
+                  "x": 530.5364056093387,
+                  "y": 951.3951480425396,
+                  "zoom": -1.4852964491132281
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "540b9482dfd1322a",
+            "id": "c231dc9a2aa1af42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IPv6/IPv6.md",
+                "file": "Notes/Collapsed core layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: IPv6",
+                "query": "file: col",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/IPv6/IPv6.md",
+                "file": "Canvases/IPv6.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IPv6/IPv6.md",
+                "file": "Canvases/IPv6.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/IPv6/IPv6.md"
+                "file": "Canvases/IPv6.canvas"
               }
             }
           }
@@ -239,11 +239,20 @@
   },
   "active": "170e5acf1e2c19e3",
   "lastOpenFiles": [
+    "Canvases/VLAN.canvas",
+    "Canvases/Scaling networks.canvas",
+    "Canvases/IPv6.canvas",
+    "Notes/Collapsed core layer.md",
+    "Notes/Hierarchical design model.md",
+    "Notes/Service provider edge.md",
+    "Notes/Enterprise edge.md",
+    "Notes/Enterprise campus.md",
+    "Notes/Enterprise architecture.md",
+    "Notes/Scaling networks/Failure domains.md",
+    "Notes/VLAN/VLAN.md",
+    "Notes/Scaling networks/Link aggregation.md",
     "Notes/IPv6/IPv6.md",
     "Lab reports/Assign static IPv6 addresses.md",
-    "Canvases/IPv6.canvas",
-    "Canvases/VLAN.canvas",
-    "Notes/VLAN/VLAN.md",
     "Best practices.md",
     "Notes/VLAN/Network address or Protocol driven.md",
     "Notes/VLAN/Static.md",
@@ -259,21 +268,11 @@
     "Notes/VLAN/Advantages..md",
     "Attachments/Pasted image 20230318231837.png",
     "Notes/VLAN/Create static VLANs.md",
-    "Notes/IPv6/Unspecified.md",
-    "Notes/IPv6/Unique local.md",
-    "Notes/IPv6/Randomly generated.md",
-    "Notes/IPv6/Loopback.md",
-    "Notes/IPv6/IPv4 compatible.md",
-    "Notes/IPv4.md",
     "Attachments/static ipv6.pkt",
     "Attachments/static ipv6 2.pkt",
-    "Assign auto (SLAAC) ipv6 addresses.md",
-    "CSNE notes/Attachments/static ipv6.pkt.md",
     "CSNE notes/Attachments",
     "CSNE notes",
     "Attachments/Pasted image 20230314080714.png",
-    "Canvases/Scaling networks.canvas",
-    "Notes/VLAN/Create SVI VLAN interfaces.md",
     "Attachments/multilayer inter vlan.pkt",
     "Attachments/Pasted image 20230322001711.png",
     "Attachments/Pasted image 20230322001643.png",

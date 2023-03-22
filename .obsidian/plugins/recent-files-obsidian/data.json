@@ -2,10 +2,6 @@
   "recentFiles": [
     {
       "basename": "IPv6",
-      "path": "Notes/IPv6/IPv6.md"
-    },
-    {
-      "basename": "IPv6",
       "path": "Canvases/IPv6.canvas"
     },
     {
@@ -13,8 +9,96 @@
       "path": "Canvases/VLAN.canvas"
     },
     {
+      "basename": "Scaling networks",
+      "path": "Canvases/Scaling networks.canvas"
+    },
+    {
+      "basename": "SLAAC",
+      "path": "Notes/IPv6/SLAAC.md"
+    },
+    {
+      "basename": "Assign auto (SLAAC) ipv6 addresses",
+      "path": "Assign auto (SLAAC) ipv6 addresses.md"
+    },
+    {
+      "basename": "Assign static IPv6 addresses",
+      "path": "Lab reports/Assign static IPv6 addresses.md"
+    },
+    {
+      "basename": "Access layer",
+      "path": "Notes/Scaling networks/Access layer.md"
+    },
+    {
+      "basename": "Core layer",
+      "path": "Notes/Core layer.md"
+    },
+    {
+      "basename": "Distribution layer",
+      "path": "Notes/Distribution layer.md"
+    },
+    {
+      "basename": "Collapsed core layer",
+      "path": "Notes/Collapsed core layer.md"
+    },
+    {
+      "basename": "Hierarchical design model",
+      "path": "Notes/Hierarchical design model.md"
+    },
+    {
+      "basename": "Enterprise campus",
+      "path": "Notes/Enterprise campus.md"
+    },
+    {
+      "basename": "Service provider edge",
+      "path": "Notes/Service provider edge.md"
+    },
+    {
+      "basename": "Enterprise edge",
+      "path": "Notes/Enterprise edge.md"
+    },
+    {
+      "basename": "Enterprise architecture",
+      "path": "Notes/Enterprise architecture.md"
+    },
+    {
+      "basename": "Failure domains",
+      "path": "Notes/Scaling networks/Failure domains.md"
+    },
+    {
+      "basename": "Link aggregation",
+      "path": "Notes/Scaling networks/Link aggregation.md"
+    },
+    {
+      "basename": "Scaling networks",
+      "path": "Notes/Scaling networks/Scaling networks.md"
+    },
+    {
+      "basename": "Pasted image 20230318184013",
+      "path": "Attachments/Pasted image 20230318184013.png"
+    },
+    {
+      "basename": "2-tier hierarchical model",
+      "path": "Notes/Scaling networks/2-tier hierarchical model.md"
+    },
+    {
+      "basename": "Configure sub interfaces",
+      "path": "Notes/VLAN/Configure sub interfaces.md"
+    },
+    {
+      "basename": "Configuring trunk ports",
+      "path": "Lab reports/Configuring trunk ports.md"
+    },
+    {
+      "basename": "Create SVI VLAN interfaces",
+      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
+    },
+    {
       "basename": "VLAN",
       "path": "Notes/VLAN/VLAN.md"
+    },
+    {
+      "basename": "IPv6",
+      "path": "Notes/IPv6/IPv6.md"
     },
     {
       "basename": "Best practices",
@@ -49,20 +133,8 @@
       "path": "Notes/VLAN/Create dynamic VLANs.md"
     },
     {
-      "basename": "Create SVI VLAN interfaces",
-      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
-    },
-    {
       "basename": "Configure Legacy inter VLAN routing",
       "path": "Lab reports/Configure Legacy inter VLAN routing.md"
-    },
-    {
-      "basename": "Configuring trunk ports",
-      "path": "Lab reports/Configuring trunk ports.md"
-    },
-    {
-      "basename": "Configure sub interfaces",
-      "path": "Notes/VLAN/Configure sub interfaces.md"
     },
     {
       "basename": "Configure multilayer switch inter VLAN routing",
@@ -81,18 +153,6 @@
       "path": "Attachments/Pasted image 20230321072249.png"
     },
     {
-      "basename": "Assign auto (SLAAC) ipv6 addresses",
-      "path": "Assign auto (SLAAC) ipv6 addresses.md"
-    },
-    {
-      "basename": "Assign static IPv6 addresses",
-      "path": "Lab reports/Assign static IPv6 addresses.md"
-    },
-    {
-      "basename": "SLAAC",
-      "path": "Notes/IPv6/SLAAC.md"
-    },
-    {
       "basename": "EUI-64 process",
       "path": "Notes/IPv6/EUI-64 process.md"
     },
@@ -109,60 +169,8 @@
       "path": "Notes/IPv6/Dual stack.md"
     },
     {
-      "basename": "Scaling networks",
-      "path": "Canvases/Scaling networks.canvas"
-    },
-    {
-      "basename": "Core layer",
-      "path": "Notes/Core layer.md"
-    },
-    {
-      "basename": "Distribution layer",
-      "path": "Notes/Distribution layer.md"
-    },
-    {
-      "basename": "Access layer",
-      "path": "Notes/Scaling networks/Access layer.md"
-    },
-    {
-      "basename": "Collapsed core layer",
-      "path": "Notes/Collapsed core layer.md"
-    },
-    {
       "basename": "3-tier hierarchical model",
       "path": "Notes/Scaling networks/3-tier hierarchical model.md"
-    },
-    {
-      "basename": "2-tier hierarchical model",
-      "path": "Notes/Scaling networks/2-tier hierarchical model.md"
-    },
-    {
-      "basename": "Hierarchical design model",
-      "path": "Notes/Hierarchical design model.md"
-    },
-    {
-      "basename": "Service provider edge",
-      "path": "Notes/Service provider edge.md"
-    },
-    {
-      "basename": "Enterprise edge",
-      "path": "Notes/Enterprise edge.md"
-    },
-    {
-      "basename": "Enterprise campus",
-      "path": "Notes/Enterprise campus.md"
-    },
-    {
-      "basename": "Enterprise architecture",
-      "path": "Notes/Enterprise architecture.md"
-    },
-    {
-      "basename": "Failure domains",
-      "path": "Notes/Scaling networks/Failure domains.md"
-    },
-    {
-      "basename": "Scaling networks",
-      "path": "Notes/Scaling networks/Scaling networks.md"
     },
     {
       "basename": "Pasted image 20230321232554",

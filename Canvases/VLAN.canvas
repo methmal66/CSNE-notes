@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"b9ce6e0e3953bd9d","x":2860,"y":-4242,"width":2331,"height":4277,"color":"#fffafa","label":"Practical labs"},
+		{"type":"group","id":"b9ce6e0e3953bd9d","x":2860,"y":-3868,"width":2331,"height":3903,"color":"#fffafa","label":"Practical labs"},
 		{"type":"group","id":"29bbbff60e2aba93","x":1280,"y":-2320,"width":1210,"height":1600,"color":"4","label":"Implementation methods"},
 		{"type":"group","id":"1c7cf37a45563531","x":3955,"y":-2165,"width":1192,"height":1124,"color":"6","label":"Create VLANs"},
 		{"type":"group","id":"cf9cd1390be6b036","x":-1200,"y":-2560,"width":1440,"height":861,"color":"6","label":"Membership types"},
@@ -16,15 +16,15 @@
 		{"type":"text","text":"# Port driven\n\n- User assigned by port association\n- Requires no lookup if done in ASIC\n- Easily adminstrated via GUIs\n- Easily controllable accross network\n- Miximizing security among VLANs\n- [[Packets]] do not leak into other domain\n\n![[Pasted image 20230318230436.png|300]]","id":"5cf4135c9ea6bc17","x":-781,"y":-2557,"width":346,"height":551,"color":"5"},
 		{"type":"text","text":"# MAC address driven\n\n- User assigend bassed on MAC addresses\n- Offers flexibility yet adds overhead\n- Impacts performace, scalability and administration\n- Offer similar process for higher layers\n\n![[Pasted image 20230318231049.png|500]]","id":"e42dbe1acd932eca","x":-341,"y":-2238,"width":548,"height":464,"color":"5"},
 		{"type":"text","text":"# Network address or Protocol driven\n\n![[Pasted image 20230318231837.png|300]]","id":"6d239c667714f920","x":-1161,"y":-2110,"width":350,"height":377,"color":"5"},
-		{"type":"file","file":"Notes/VLAN/Configure sub interfaces.md","id":"a5a49756b8eacc08","x":4455,"y":-2993,"width":526,"height":693,"color":"5"},
-		{"type":"file","file":"Lab reports/Configuring trunk ports.md","id":"4d4cbb521a6e5f6a","x":3793,"y":-4222,"width":600,"height":1385,"color":"5"},
-		{"type":"file","file":"Notes/VLAN/Create SVI VLAN interfaces.md","id":"16895eb51022db42","x":3975,"y":-635,"width":470,"height":446,"color":"5"},
 		{"type":"file","file":"Notes/VLAN/Create dynamic VLANs.md","id":"9e5f8235a0bab438","x":3975,"y":-2064,"width":480,"height":332,"color":"5"},
 		{"type":"text","text":"Check already existing vlans\n>[!example]- S#show vlans\n>![[Pasted image 20230319073014.png]]\n\nVLAN 1 of a switch is the system default. It is used to management purposes, every interface is already assigend to that VLAN. We are supposed to reassign them. Other VLANs from 1002-1005 are also used for system purposes, but not interfaces are assigned to them. They can be configured in either static or dynamic","id":"3a95f0f118af7ffa","x":3975,"y":-1663,"width":480,"height":514,"color":"5"},
 		{"type":"file","file":"Notes/VLAN/Create static VLANs.md","id":"8784f32fe09e7050","x":4528,"y":-2083,"width":581,"height":1004,"color":"5"},
 		{"type":"text","text":"# Advantages\n\n- Latency is much lower because data does not need to leave the switch to be routed to a different network\n- There is no need for external links from the switch to the router for routing\n- They are not limited to one link because Layer 2 [[EtherChannels]] can be used as trunk links between the switches to increase bandwidth","id":"06d262c5d1308fdc","x":1442,"y":-366,"width":488,"height":264,"color":"1"},
 		{"type":"file","file":"Notes/Inter VLAN routing.md","id":"a70dfa98fdfa4a9b","x":475,"y":-1438,"width":400,"height":157,"color":"5"},
-		{"id":"479281bc6e8ac4fa","x":-973,"y":-399,"width":621,"height":308,"color":"5","type":"text","text":"# Best practices\n\n- The number of VLANs in a switch must be decided based on,\n\t- Traffic patterns\n\t- Type of application\n\t- Network management needs\n\t- Group commonality\n- One-to-one correspondence between VLANs\n- IP subnets\n- Should not extend outside of the Layer 2 domain of the distribution switch"}
+		{"type":"text","text":"# Best practices\n\n- The number of VLANs in a switch must be decided based on,\n\t- Traffic patterns\n\t- Type of application\n\t- Network management needs\n\t- Group commonality\n- One-to-one correspondence between VLANs\n- IP subnets\n- Should not extend outside of the Layer 2 domain of the distribution switch","id":"479281bc6e8ac4fa","x":-973,"y":-399,"width":621,"height":308,"color":"5"},
+		{"type":"file","file":"Notes/VLAN/Create SVI VLAN interfaces.md","id":"16895eb51022db42","x":3843,"y":-457,"width":470,"height":446,"color":"5"},
+		{"type":"file","file":"Lab reports/Configuring trunk ports.md","id":"4d4cbb521a6e5f6a","x":4519,"y":-3636,"width":600,"height":1385,"color":"5"},
+		{"type":"file","file":"Notes/VLAN/Configure sub interfaces.md","id":"a5a49756b8eacc08","x":3760,"y":-3754,"width":526,"height":693,"color":"5"}
 	],
 	"edges":[
 		{"id":"2531ab4348049f1b","fromNode":"a95f04fbf2c7e288","fromSide":"right","toNode":"a70dfa98fdfa4a9b","toSide":"left","color":"5"},
@@ -42,10 +42,10 @@
 		{"id":"92b084b02ab3bed9","fromNode":"a95f04fbf2c7e288","fromSide":"top","toNode":"e42dbe1acd932eca","toSide":"bottom","color":"5"},
 		{"id":"1533419277ca6da1","fromNode":"a95f04fbf2c7e288","fromSide":"top","toNode":"5cf4135c9ea6bc17","toSide":"bottom","color":"5"},
 		{"id":"c475614bb051b4ce","fromNode":"a95f04fbf2c7e288","fromSide":"top","toNode":"6d239c667714f920","toSide":"bottom","color":"5"},
-		{"id":"c4823ec48c25b2ef","fromNode":"df21fbe2c377f5d9","fromSide":"right","toNode":"a5a49756b8eacc08","toSide":"left","color":"5"},
 		{"id":"b74f28517fb5ec1b","fromNode":"df21fbe2c377f5d9","fromSide":"right","toNode":"4d4cbb521a6e5f6a","toSide":"left","color":"5"},
 		{"id":"4d19a841cdcf34ca","fromNode":"13a2e73dded44274","fromSide":"right","toNode":"16895eb51022db42","toSide":"left","color":"5"},
 		{"id":"68110f577e36ae79","fromNode":"862a11f6b0b9c5ea","fromSide":"bottom","toNode":"06d262c5d1308fdc","toSide":"top","color":"1"},
-		{"id":"09c02d7e9b463062","fromNode":"a95f04fbf2c7e288","fromSide":"left","toNode":"479281bc6e8ac4fa","toSide":"top","color":"5"}
+		{"id":"09c02d7e9b463062","fromNode":"a95f04fbf2c7e288","fromSide":"left","toNode":"479281bc6e8ac4fa","toSide":"top","color":"5"},
+		{"id":"0003494f5712051a","fromNode":"df21fbe2c377f5d9","fromSide":"right","toNode":"a5a49756b8eacc08","toSide":"left","color":"5"}
 	]
 }
