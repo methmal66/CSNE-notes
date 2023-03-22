@@ -8,5 +8,5 @@ A port in a switch connected to another switch and enable the traffic between tw
 
 Process of creating a trunk port is called trunking
 >[!important] Practical lab
->Get a more hands on and practical understanding by [[Configuring VLAN trunks]]
+>Get a more hands on and practical understanding by [[Configuring trunk ports]]
 

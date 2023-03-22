@@ -1,100 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "VLAN",
+      "path": "Canvases/VLAN.canvas"
     },
     {
-      "basename": "POSIX API",
-      "path": "Notes/POSIX API.md"
+      "basename": "Randomly generated",
+      "path": "Notes/IPv6/Randomly generated.md"
     },
     {
-      "basename": "Link aggregation",
-      "path": "Notes/Link aggregation.md"
+      "basename": "IPv6",
+      "path": "Canvases/IPv6.canvas"
     },
     {
-      "basename": "Harvard Architecture",
-      "path": "Notes/Harvard Architecture.md"
-    },
-    {
-      "basename": "Expansion modules",
-      "path": "Notes/Expansion modules.md"
-    },
-    {
-      "basename": "Failure domains",
-      "path": "Notes/Failure domains.md"
-    },
-    {
-      "basename": "Access layer",
-      "path": "Notes/Access layer.md"
+      "basename": "Enterprise campus",
+      "path": "Notes/Enterprise campus.md"
     },
     {
       "basename": "2-tier hierarchical model",
-      "path": "Notes/2-tier hierarchical model.md"
-    },
-    {
-      "basename": "3-tier hierarchical model",
-      "path": "Notes/3-tier hierarchical model.md"
-    },
-    {
-      "basename": "AI",
-      "path": "Syllabus/Y2S2/AI.md"
-    },
-    {
-      "basename": "Configure a DHCP server in CentOS7",
-      "path": "Lab reports/Configure a DHCP server in CentOS7.md"
-    },
-    {
-      "basename": "Assembly",
-      "path": "Notes/Assembly.md"
-    },
-    {
-      "basename": "Directives",
-      "path": "Notes/Directives.md"
-    },
-    {
-      "basename": "Assembler",
-      "path": "Notes/Assembler.md"
-    },
-    {
-      "basename": "Mnemonics",
-      "path": "Notes/Mnemonics.md"
+      "path": "Notes/Scaling networks/2-tier hierarchical model.md"
     },
     {
       "basename": "Scaling networks",
-      "path": "Notes/Scaling networks.md"
+      "path": "Canvases/Scaling networks.canvas"
+    },
+    {
+      "basename": "IPv6",
+      "path": "Notes/IPv6/IPv6.md"
+    },
+    {
+      "basename": "Create SVI VLAN interfaces",
+      "path": "Notes/VLAN/Create SVI VLAN interfaces.md"
+    },
+    {
+      "basename": "Configure multilayer switch inter VLAN routing",
+      "path": "Notes/VLAN/Configure multilayer switch inter VLAN routing.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Notes/VLAN/VLAN.md"
+    },
+    {
+      "basename": "Config router on a stick",
+      "path": "Notes/VLAN/Config router on a stick.md"
+    },
+    {
+      "basename": "Dynamic .",
+      "path": "Notes/VLAN/Dynamic ..md"
+    },
+    {
+      "basename": "Configure sub interfaces",
+      "path": "Notes/VLAN/Configure sub interfaces.md"
+    },
+    {
+      "basename": "Configuring trunk ports",
+      "path": "Lab reports/Configuring trunk ports.md"
+    },
+    {
+      "basename": "Configure Legacy inter VLAN routing",
+      "path": "Lab reports/Configure Legacy inter VLAN routing.md"
+    },
+    {
+      "basename": "Multilayer",
+      "path": "Notes/VLAN/Multilayer.md"
+    },
+    {
+      "basename": "Legacy",
+      "path": "Notes/VLAN/Legacy.md"
+    },
+    {
+      "basename": "Router on a stick",
+      "path": "Notes/VLAN/Router on a stick.md"
     },
     {
       "basename": "Inter VLAN routing",
       "path": "Notes/Inter VLAN routing.md"
     },
     {
-      "basename": "Enterprise architecture",
-      "path": "Notes/Enterprise architecture.md"
+      "basename": "MAC address driven",
+      "path": "Notes/VLAN/MAC address driven.md"
     },
     {
-      "basename": "Configuring VLANs",
-      "path": "Lab reports/Configuring VLANs.md"
+      "basename": "Port driven",
+      "path": "Notes/VLAN/Port driven.md"
+    },
+    {
+      "basename": "Network address or Protocol driven",
+      "path": "Notes/VLAN/Network address or Protocol driven.md"
+    },
+    {
+      "basename": "Create VLANs",
+      "path": "Lab reports/Create VLANs.md"
+    },
+    {
+      "basename": "Static .",
+      "path": "Notes/VLAN/Static ..md"
+    },
+    {
+      "basename": "Pasted image 20230321232554",
+      "path": "Attachments/Pasted image 20230321232554.png"
+    },
+    {
+      "basename": "Pasted image 20230319073014",
+      "path": "Attachments/Pasted image 20230319073014.png"
+    },
+    {
+      "basename": "Pasted image 20230320072434",
+      "path": "Attachments/Pasted image 20230320072434.png"
+    },
+    {
+      "basename": "System Call Interface",
+      "path": "Notes/System Call Interface.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Pasted image 20230320062413",
+      "path": "Attachments/Pasted image 20230320062413.png"
+    },
+    {
+      "basename": "Advantages.",
+      "path": "Notes/VLAN/Advantages..md"
+    },
+    {
+      "basename": "Advantages",
+      "path": "Notes/VLAN/Advantages.md"
+    },
+    {
+      "basename": "Features",
+      "path": "Notes/VLAN/Features.md"
+    },
+    {
+      "basename": "Dynamic",
+      "path": "Notes/VLAN/Dynamic.md"
+    },
+    {
+      "basename": "Static",
+      "path": "Notes/VLAN/Static.md"
     },
     {
       "basename": "Configuring VTP",
       "path": "Lab reports/Configuring VTP.md"
     },
     {
-      "basename": "Configuring inter VLAN routing",
-      "path": "Lab reports/Configuring inter VLAN routing.md"
+      "basename": "SLAAC",
+      "path": "Notes/IPv6/SLAAC.md"
     },
     {
-      "basename": "Assign global IPv6 addresses",
-      "path": "Lab reports/Assign global IPv6 addresses.md"
+      "basename": "Best practices",
+      "path": "Notes/VLAN/Best practices.md"
     },
     {
-      "basename": "Pasted image 20230222084435",
-      "path": "Attachments/Pasted image 20230222084435.png"
+      "basename": "AI",
+      "path": "Syllabus/Y2S2/AI.md"
     },
     {
-      "basename": "Configuring VLAN trunks",
-      "path": "Lab reports/Configuring VLAN trunks.md"
+      "basename": "Accountibility",
+      "path": "Notes/Scaling networks/Accountibility.md"
+    },
+    {
+      "basename": "Pasted image 20230321072312",
+      "path": "Attachments/Pasted image 20230321072312.png"
+    },
+    {
+      "basename": "EUI-64 process",
+      "path": "Notes/IPv6/EUI-64 process.md"
+    },
+    {
+      "basename": "Loopback",
+      "path": "Notes/IPv6/Loopback.md"
+    },
+    {
+      "basename": "IPv4 compatible",
+      "path": "Notes/IPv6/IPv4 compatible.md"
+    },
+    {
+      "basename": "Unique local",
+      "path": "Notes/IPv6/Unique local.md"
+    },
+    {
+      "basename": "Unspecified",
+      "path": "Notes/IPv6/Unspecified.md"
+    },
+    {
+      "basename": "Link local",
+      "path": "Notes/IPv6/Link local.md"
+    },
+    {
+      "basename": "3-tier hierarchical model",
+      "path": "Notes/Scaling networks/3-tier hierarchical model.md"
+    },
+    {
+      "basename": "Dual stack",
+      "path": "Notes/IPv6/Dual stack.md"
+    },
+    {
+      "basename": "Configure OSPF",
+      "path": "Lab reports/Configure OSPF.md"
     }
   ],
   "omittedPaths": [],

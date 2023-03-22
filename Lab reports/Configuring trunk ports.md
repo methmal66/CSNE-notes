@@ -1,9 +1,14 @@
-#networking #hardware #AI #RS #cisco #packettracer #practical 
+---
+tags: networking packettracer practical cisco AI
+author: methmal66
+created: [[2023-03-20]]
+modified: [[2023-03-21]]
+---
 
 ![[Pasted image 20230320094656.png]]
 ![[vlan trunking.pkt]]
 
-Configure interfaces. Then create VLANs as it is explained in [[Configuring VLANs]]. Finally, configure the trunk port
+Configure interfaces. Then create VLANs as it is explained in [[Create VLANs]]. Finally, configure the trunk port
 ```cisco
 S1(config)#int gi0/1
 S1(config-if)#switchport mode trunk
@@ -25,10 +30,10 @@ S1(config-if)#switchport trunk native vlan 1
 >```
 
 Check switchport configs
->[!example]- fa0/1
+>[!example]- S2#show int fa0/1 switchport
 >![[Pasted image 20230320092856.png]]
 
->[!example]- gi0/1
+>[!example]- S2#show int gi0/1 switchport
 >![[Pasted image 20230320093011.png]]
 
 Try to ping devices in the same vlan 

@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "MaEarth-line",
       "EdList-unordered",
       "DoBook-3-line",
       "HeTest-tube-line",
@@ -26,5 +27,6 @@
     "inheritanceIcon": "HeTest-tube-line"
   },
   "Notes": "DoBook-3-line",
-  "Syllabus": "EdList-unordered"
+  "Syllabus": "EdList-unordered",
+  "Canvases": "MaEarth-line"
 }
