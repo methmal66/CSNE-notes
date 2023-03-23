@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd88b9fb1d683015",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/VLAN/VLAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d46a6e242cabf581",
             "type": "leaf",
             "pinned": true,
@@ -30,8 +16,8 @@
               "state": {
                 "file": "Canvases/VLAN.canvas",
                 "viewState": {
-                  "x": 355.5814513687372,
-                  "y": -1138.5915457162243,
+                  "x": -149.19987998725563,
+                  "y": -1341.493845575006,
                   "zoom": -1.4117867816830745
                 }
               },
@@ -72,8 +58,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24306a86f7a96e2e",
@@ -227,9 +211,10 @@
   },
   "active": "d46a6e242cabf581",
   "lastOpenFiles": [
+    "Notes/VLAN/VLAN.md",
+    "Canvases/VLAN.canvas",
     "Canvases/IPv6.canvas",
     "Notes/VLAN/VTP.md",
-    "Canvases/VLAN.canvas",
     "Lab reports/Configuring VTP.md",
     "Canvases/Scaling networks.canvas",
     "Notes/Collapsed core layer.md",
@@ -239,7 +224,6 @@
     "Notes/Enterprise campus.md",
     "Notes/Enterprise architecture.md",
     "Notes/Scaling networks/Failure domains.md",
-    "Notes/VLAN/VLAN.md",
     "Notes/Scaling networks/Link aggregation.md",
     "Notes/IPv6/IPv6.md",
     "Lab reports/Assign static IPv6 addresses.md",

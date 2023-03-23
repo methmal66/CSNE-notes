@@ -5,6 +5,10 @@
       "path": "Canvases/VLAN.canvas"
     },
     {
+      "basename": "VLAN",
+      "path": "Notes/VLAN/VLAN.md"
+    },
+    {
       "basename": "IPv6",
       "path": "Canvases/IPv6.canvas"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "Configuring trunk ports",
       "path": "Lab reports/Configuring trunk ports.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "Notes/VLAN/VLAN.md"
     },
     {
       "basename": "IPv6",
