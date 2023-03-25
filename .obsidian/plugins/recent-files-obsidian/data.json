@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "STP",
+      "path": "Canvases/STP.canvas"
+    },
+    {
+      "basename": "STP",
+      "path": "Notes/STP/STP.md"
+    },
+    {
+      "basename": "Lowest cost path",
+      "path": "Notes/STP/Lowest cost path.md"
+    },
+    {
+      "basename": "BPDU",
+      "path": "Notes/STP/BPDU.md"
+    },
+    {
+      "basename": "Root bridge",
+      "path": "Notes/STP/Root bridge.md"
+    },
+    {
+      "basename": "Root port",
+      "path": "Notes/STP/Root port.md"
+    },
+    {
+      "basename": "Designated port",
+      "path": "Notes/STP/Designated port.md"
+    },
+    {
+      "basename": "PVST +",
+      "path": "Notes/STP/PVST +.md"
+    },
+    {
+      "basename": "Rapid PVST+",
+      "path": "Notes/STP/Rapid PVST+.md"
+    },
+    {
+      "basename": "MSTP",
+      "path": "Notes/STP/MSTP.md"
+    },
+    {
+      "basename": "RSTP",
+      "path": "Notes/STP/RSTP.md"
+    },
+    {
       "basename": "VLAN",
       "path": "Canvases/VLAN.canvas"
     },
@@ -113,10 +157,6 @@
       "path": "Notes/IPv6/IPv6.md"
     },
     {
-      "basename": "Best practices",
-      "path": "Best practices.md"
-    },
-    {
       "basename": "Router on a stick",
       "path": "Notes/VLAN/Router on a stick.md"
     },
@@ -155,38 +195,6 @@
     {
       "basename": "Create VLANs",
       "path": "Lab reports/Create VLANs.md"
-    },
-    {
-      "basename": "Pasted image 20230319073014",
-      "path": "Attachments/Pasted image 20230319073014.png"
-    },
-    {
-      "basename": "Pasted image 20230321072249",
-      "path": "Attachments/Pasted image 20230321072249.png"
-    },
-    {
-      "basename": "EUI-64 process",
-      "path": "Notes/IPv6/EUI-64 process.md"
-    },
-    {
-      "basename": "Tunneling",
-      "path": "Notes/IPv6/Tunneling.md"
-    },
-    {
-      "basename": "Translation",
-      "path": "Notes/IPv6/Translation.md"
-    },
-    {
-      "basename": "Dual stack",
-      "path": "Notes/IPv6/Dual stack.md"
-    },
-    {
-      "basename": "3-tier hierarchical model",
-      "path": "Notes/Scaling networks/3-tier hierarchical model.md"
-    },
-    {
-      "basename": "Pasted image 20230321232554",
-      "path": "Attachments/Pasted image 20230321232554.png"
     }
   ],
   "omittedPaths": [],

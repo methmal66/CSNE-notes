@@ -8,57 +8,58 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d46a6e242cabf581",
+            "id": "0aedabfb0faa610a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvases/VLAN.canvas",
-                "viewState": {
-                  "x": -149.19987998725563,
-                  "y": -1341.493845575006,
-                  "zoom": -1.4117867816830745
-                }
-              },
-              "pinned": true
+                "file": "Notes/STP/MSTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "aa9369191e1ba235",
+            "id": "2cb2b3af95612cf2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvases/Scaling networks.canvas",
+                "file": "Canvases/STP.canvas",
                 "viewState": {
-                  "x": -1351.2207484414178,
-                  "y": -1731.9338983494777,
-                  "zoom": -2.207875106577748
+                  "x": 16.06399725547001,
+                  "y": -176.67472643009157,
+                  "zoom": -0.9750191026518717
                 }
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "170e5acf1e2c19e3",
+            "id": "133ce8d3a98ef7fb",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvases/IPv6.canvas",
-                "viewState": {
-                  "x": 1952.026277777558,
-                  "y": 2607.1161227013035,
-                  "zoom": -2.3619660699847707
-                }
-              },
-              "pinned": true
+                "file": "Notes/STP/Rapid PVST+.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8910554c20a8b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/STP/BPDU.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/VLAN.canvas",
+                "file": "Canvases/STP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/VLAN.canvas",
+                "file": "Canvases/STP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,16 +164,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvases/VLAN.canvas"
+                "file": "Canvases/STP.canvas"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24306a86f7a96e2e",
@@ -209,11 +210,27 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d46a6e242cabf581",
+  "active": "2cb2b3af95612cf2",
   "lastOpenFiles": [
-    "Notes/VLAN/VLAN.md",
-    "Canvases/VLAN.canvas",
+    "Notes/STP/STP.md",
+    "Canvases/STP.canvas",
+    "Notes/Switch.md",
+    "Notes/STP/PVST +.md",
+    "Best practices.md",
+    "Notes/STP/BPDU.md",
+    "Notes/STP/RSTP.md",
+    "Notes/STP/Root port.md",
+    "Notes/STP/Root bridge.md",
+    "Notes/STP/Lowest cost path.md",
+    "Notes/STP/Rapid PVST+.md",
+    "Notes/STP/MSTP.md",
+    "Notes/STP/Designated port.md",
     "Canvases/IPv6.canvas",
+    "Notes/VLAN/VLAN.md",
+    "Attachments/Pasted image 20230325010102.png",
+    "Attachments/Pasted image 20230323113755.png",
+    "Canvases/VLAN.canvas",
+    "Notes/STP",
     "Notes/VLAN/VTP.md",
     "Lab reports/Configuring VTP.md",
     "Canvases/Scaling networks.canvas",
@@ -227,18 +244,6 @@
     "Notes/Scaling networks/Link aggregation.md",
     "Notes/IPv6/IPv6.md",
     "Lab reports/Assign static IPv6 addresses.md",
-    "Best practices.md",
-    "Notes/VLAN/Network address or Protocol driven.md",
-    "Notes/VLAN/Static.md",
-    "Notes/VLAN/Router on a stick.md",
-    "Notes/VLAN/Port driven.md",
-    "Notes/VLAN/MAC address driven.md",
-    "Notes/VLAN/Legacy inter vlan routing.md",
-    "Notes/VLAN/Features.md",
-    "Notes/VLAN/Dynamic.md",
-    "Lab reports/Config router on a stick.md",
-    "Notes/VLAN/Best practices.md",
-    "Notes/VLAN/Advantages.md",
     "Attachments/Pasted image 20230318231837.png",
     "Attachments/static ipv6.pkt",
     "Attachments/static ipv6 2.pkt",
@@ -255,9 +260,6 @@
     "Attachments/static vlan.pkt~",
     "Canvases",
     "Notes/VLAN",
-    "Notes/Scaling networks",
-    "Attachments/Pasted image 20230321073538.png",
-    "Attachments/Pasted image 20230217084249.png",
-    "Attachments/Pasted image 20230214214653.png"
+    "Attachments/Pasted image 20230321073538.png"
   ]
 }

@@ -7,7 +7,8 @@
 		{"type":"group","id":"82d6adbaa0bd811d","x":1420,"y":648,"width":1260,"height":992,"color":"6","label":"Coexistance with IPv4"},
 		{"type":"group","id":"f66f404c82556eef","x":-560,"y":-40,"width":440,"height":400,"color":"5","label":"Multicast addresses"},
 		{"type":"group","id":"fcb527ab9925b876","x":1107,"y":-225,"width":380,"height":370,"color":"5","label":"Anycast addresses"},
-		{"type":"file","file":"Attachments/Pasted image 20230321073538.png","id":"73e71dbb551436ce","x":-540,"y":40,"width":400,"height":300},
+		{"type":"text","text":"# Unspecified\n\n- Address is used as the source address when a unique address has not yet been configured. \n- Also used as the default route in routing\n- `::/128` is corresponding to 0.0.0.0/8 in [[IPv4]]\n- Cannot be assingned to a physical interface\n- Only used as a source address\n\n>[!note]- The only one unspecified address is `::` = `0:0:0:0:0:0:0:0`\n\n","id":"e0c3e99bb946f2ae","x":40,"y":-1688,"width":433,"height":470,"color":"5"},
+		{"type":"file","file":"Attachments/Pasted image 20230321072249.png","id":"4446af3f3a73d7f4","x":-466,"y":-1630,"width":400,"height":300},
 		{"type":"file","file":"Attachments/Pasted image 20230321072312.png","id":"ca3e9ee9eecbe81e","x":1120,"y":-160,"width":360,"height":270},
 		{"type":"text","text":">[!important]\n>There are no broadcast addresses in IPv6","id":"47845726eaa491eb","x":838,"y":220,"width":564,"height":120,"color":"5"},
 		{"type":"text","text":"# Unique Local\n\n- Servers the purpose of private addresses as in [[IPv4]] with added features\n- Allocated address block is `fc00::/7`\n- Consist of 3 parts in order\n\t1. Prefix (8bits) - `fc` or `fd`\n\t2. Global ID (40bits)\n\t3. Subnet ID (16bits)\n\t4. Interface ID (64bits)\n\n![[Pasted image 20230312191914.png|500]]\n\n>[!note]- Site Local addresses are deprecated\n>- Corresponding to private addresses in [[IPv4]]\n>- Allocated address block is `FEC0::/16`\n\n","id":"8d7e2d7c2d8c4a6d","x":400,"y":-1130,"width":535,"height":520,"color":"5"},
@@ -16,8 +17,6 @@
 		{"type":"text","text":"# Header","id":"1d6f0c686c009699","x":-465,"y":545,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"# Goals\n\nCover the following,\n- 10^15 endpoints\n- 10^12 sites\n","id":"1092c311bce3f076","x":-773,"y":740,"width":254,"height":178,"color":"5"},
 		{"type":"file","file":"Notes/IPv6/IPv6.md","id":"434a131f3c867949","x":144,"y":895,"width":574,"height":210,"color":"2"},
-		{"type":"text","text":"# IPv4 compatible\n\n- Assigned to devices that handle both [[IPv4]] and IPv6\n- Consist of two parts, which are in order\n\t1. 96bit zeros\n\t2. 32bit [[IPv4]] address\n![[Pasted image 20230312193433.png]]","id":"be5439ce4387a0d8","x":-572,"y":-768,"width":432,"height":316,"color":"5"},
-		{"type":"text","text":"# Loopback\n\n- The address used to send packets back to their host. \n- Only address is `::1/128`, which is corressponding 127.0.0.0/8 range in [[IPv4]]\n- Cannot be assigned to a physical address","id":"11a654ccbb23fe00","x":-423,"y":-1088,"width":463,"height":218,"color":"5"},
 		{"type":"file","file":"Notes/IPv6/Dual stack.md","id":"9a580898804aa2a7","x":1440,"y":685,"width":400,"height":265,"color":"5"},
 		{"type":"file","file":"Notes/IPv6/Translation.md","id":"9676b41cb97ccfe9","x":1440,"y":1060,"width":560,"height":540,"color":"5"},
 		{"type":"text","text":"# Representation\nOriginally, addresses are represented by 32 hexadecimal seperated by 4 hexadecimals (Hextets). \n>[!example]-\n>- 2001:0DB8:0000:1111:0000:0000:0000:0200\n>- fe80:0000:0000:0000:0123:4567:89ab:cdef\n\nBut these long form addresses can be reduced further using the below rules\n>[!example]- Omitting leading zeros\n>- 01AB -> AB\n>- 09F0 -> 9F0\n>- 0A00 -> A00\n>- 00AB -> AB\n\n>[!example]- Omitting all zero segments\n>- 2001:0DB8:0000:1111:0000:0000:0000:0200 -> 2001:0DB8:0000:1111::0200\n>- FE80:0000:0000:0000:0123:4567:89AB:CDEF -> FE80::0123:4567:89AB:CDEF\n> >[!note]- Only one segment can be omitted\n> >Because number of omitted zeros cannot be determined if there were multiple of them\n","id":"2de7fd93a2b8cbaa","x":-1223,"y":1401,"width":499,"height":399,"color":"5"},
@@ -27,10 +26,11 @@
 		{"type":"text","text":"# Randomly generated\n\n- Generated ID is depend upon the [[Operating System]]\n- Beginning with Windows Vista, Windows uses a randomly generated Interface ID","id":"cd2dbed47247f5eb","x":165,"y":2013,"width":457,"height":196,"color":"5"},
 		{"type":"text","text":"# Static\n\n","id":"a212190e53dabb74","x":659,"y":2209,"width":180,"height":70,"color":"5"},
 		{"type":"file","file":"Notes/IPv6/Tunneling.md","id":"2f394036d85a6c8f","x":2080,"y":760,"width":560,"height":500,"color":"5"},
+		{"type":"file","file":"Attachments/Pasted image 20230321073538.png","id":"73e71dbb551436ce","x":-540,"y":40,"width":400,"height":300},
+		{"type":"text","text":"# IPv4 compatible\n\n- Assigned to devices that handle both [[IPv4]] and IPv6\n- Consist of two parts, which are in order\n\t1. 96bit zeros\n\t2. 32bit [[IPv4]] address\n![[Pasted image 20230312193433.png]]","id":"be5439ce4387a0d8","x":-572,"y":-768,"width":432,"height":316,"color":"5"},
+		{"type":"text","text":"# Loopback\n\n- The address used to send packets back to their host. \n- Only address is `::1/128`, which is corressponding 127.0.0.0/8 range in [[IPv4]]\n- Cannot be assigned to a physical address","id":"11a654ccbb23fe00","x":-423,"y":-1088,"width":463,"height":218,"color":"5"},
 		{"type":"file","file":"Lab reports/Assign auto (SLAAC) ipv6 addresses.md","id":"c9fbed80a3f84c21","x":-276,"y":3150,"width":551,"height":1170,"color":"3"},
-		{"type":"file","file":"Lab reports/Assign static IPv6 addresses.md","id":"f549043faa563449","x":347,"y":2942,"width":542,"height":1145,"color":"3"},
-		{"type":"text","text":"# Unspecified\n\n- Address is used as the source address when a unique address has not yet been configured. \n- Also used as the default route in routing\n- `::/128` is corresponding to 0.0.0.0/8 in [[IPv4]]\n- Cannot be assingned to a physical interface\n- Only used as a source address\n\n>[!note]- The only one unspecified address is `::` = `0:0:0:0:0:0:0:0`\n\n","id":"e0c3e99bb946f2ae","x":40,"y":-1688,"width":433,"height":470,"color":"5"},
-		{"type":"file","file":"Attachments/Pasted image 20230321072249.png","id":"4446af3f3a73d7f4","x":-466,"y":-1630,"width":400,"height":300}
+		{"type":"file","file":"Lab reports/Assign static IPv6 addresses.md","id":"f549043faa563449","x":347,"y":2942,"width":542,"height":1145,"color":"3"}
 	],
 	"edges":[
 		{"id":"66e9cc4336cdb707","fromNode":"434a131f3c867949","fromSide":"left","toNode":"1d6f0c686c009699","toSide":"right","color":"5"},

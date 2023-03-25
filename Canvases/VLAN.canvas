@@ -2,10 +2,9 @@
 	"nodes":[
 		{"type":"group","id":"b9ce6e0e3953bd9d","x":2824,"y":-3868,"width":2367,"height":3936,"color":"#fffafa","label":"Practical labs"},
 		{"type":"group","id":"29bbbff60e2aba93","x":1280,"y":-2320,"width":1210,"height":1600,"color":"4","label":"Implementation methods"},
-		{"type":"group","id":"1c7cf37a45563531","x":3955,"y":-2165,"width":1192,"height":1124,"color":"6","label":"Create VLANs"},
 		{"type":"group","id":"cf9cd1390be6b036","x":-1200,"y":-2560,"width":1440,"height":861,"color":"6","label":"Membership types"},
+		{"type":"group","id":"1c7cf37a45563531","x":3955,"y":-2165,"width":1192,"height":1124,"color":"6","label":"Create VLANs"},
 		{"type":"group","id":"8b0e8f81121fed6c","x":-114,"y":722,"width":1021,"height":622,"color":"4","label":"VTP modes"},
-		{"id":"7187eecb397d9b54","x":-508,"y":-1808,"width":250,"height":60,"type":"text","text":""},
 		{"type":"file","file":"Lab reports/Configure Legacy inter VLAN routing.md","id":"e6ae4a18d0e586ec","x":2880,"y":-2083,"width":560,"height":1042,"color":"1"},
 		{"type":"file","file":"Notes/VLAN/Legacy inter vlan routing.md","id":"989f4de2dacd016c","x":1930,"y":-1882,"width":540,"height":640,"color":"3"},
 		{"type":"file","file":"Lab reports/Config router on a stick.md","id":"df21fbe2c377f5d9","x":2880,"y":-3114,"width":550,"height":814,"color":"1"},
